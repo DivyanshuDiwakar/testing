@@ -1,4 +1,4 @@
-domain: netnerich.com
+domain: netenrich.com
 username: nothing
 password: nothin
 
